@@ -1,0 +1,12 @@
+E:\MERN stack\git hub>git config --global user.name "suprakash91"
+
+E:\MERN stack\git hub>git config --global user.email "suprakash.20@gmail.com"
+
+E:\MERN stack\git hub>git config --global user.email "suprakash.20@gmail.comcolor.ui auto
+
+E:\MERN stack\git hub>git config --global color.ui auto
+
+E:\MERN stack\git hub>git init
+Initialized empty Git repository in E:/MERN stack/git hub/.git/
+
+E:\MERN stack\git hub>git remote add origin https://github.com/suprakash91/testing-git.git
